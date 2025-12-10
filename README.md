@@ -24,4 +24,4 @@ Desarrollo con Python de Microsoft.
 Andrés Camilo Camacho Labrador
 
 ## Profesión
-* Ingeniería de Sistemas**
+* Ingeniería de Sistemas
