@@ -21,8 +21,8 @@ Desarrollo con Python de Microsoft.
 
 ## 👨‍💻 Autor
 
-**Andrés Camilo Camacho Labrador**
-- GitHub: [@acamilox](https://github.com/acamilox)
+*Andrés Camilo Camacho Labrador
+* GitHub: [@acamilox](https://github.com/acamilox)
 
 ## Profesión
-**Ingeniería de Sistemas**
+* Ingeniería de Sistemas**
