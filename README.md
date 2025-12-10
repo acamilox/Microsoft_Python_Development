@@ -18,3 +18,11 @@ Desarrollo con Python de Microsoft.
 * Jupyter Notebooks
 * PyCharm
 * Git y GitHub
+
+## 👨‍💻 Autor
+
+**Andrés Camilo Camacho Labrador**
+- GitHub: [@acamilox](https://github.com/acamilox)
+
+## Profesión
+**Ingeniería de Sistemas**
