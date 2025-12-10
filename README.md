@@ -1,6 +1,6 @@
 # Microsoft Python Development
 
-Repositorio de proyectos y ejercicios del **Programa de Certificación Profesional en 
+Repositorio de proyectos y ejercicios del Programa de Certificación Profesional en 
 Desarrollo con Python de Microsoft.
 
 ## 📂 Estructura del repositorio
@@ -11,8 +11,7 @@ Desarrollo con Python de Microsoft.
 05_Advanced_Python_Programming/ - Programación avanzada en Python
 06_Project_Development/ - Desarrollo de proyectos
 
-🛠️ Tecnologías
-
+## 🛠️ Tecnologías utilizadas
 Python 3
 Jupyter Notebooks
 PyCharm
