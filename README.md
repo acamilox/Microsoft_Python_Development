@@ -16,7 +16,7 @@ Desarrollo con Python de Microsoft.
 ## 🛠️ Tecnologías utilizadas
 * Python 3
 * Jupyter Notebooks
-* PyCharm
+* Kiro IDE
 * Git y GitHub
 
 ## 👨‍💻 Autor
