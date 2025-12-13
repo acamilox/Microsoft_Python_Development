@@ -1,0 +1,90 @@
+{
+  "empleados": [
+    {
+      "id": 1,
+      "nombre": "Ana García",
+      "edad": 28,
+      "departamento": "Ventas",
+      "salario": 45000,
+      "fecha_contratacion": "2021-03-15",
+      "habilidades": ["comunicación", "negociación", "CRM"],
+      "activo": true
+    },
+    {
+      "id": 2,
+      "nombre": "Carlos López",
+      "edad": 35,
+      "departamento": "IT",
+      "salario": 62000,
+      "fecha_contratacion": "2019-07-22",
+      "habilidades": ["Python", "SQL", "AWS", "Docker"],
+      "activo": true
+    },
+    {
+      "id": 3,
+      "nombre": "María Rodríguez",
+      "edad": 42,
+      "departamento": "RRHH",
+      "salario": 52000,
+      "fecha_contratacion": "2018-11-30",
+      "habilidades": ["reclutamiento", "capacitación", "ley laboral"],
+      "activo": true
+    },
+    {
+      "id": 4,
+      "nombre": "Juan Martínez",
+      "edad": 31,
+      "departamento": "Ventas",
+      "salario": 48000,
+      "fecha_contratacion": "2020-05-10",
+      "habilidades": ["gestión de cuentas", "análisis de mercado"],
+      "activo": false
+    },
+    {
+      "id": 5,
+      "nombre": "Laura Fernández",
+      "edad": 29,
+      "departamento": "Marketing",
+      "salario": 51000,
+      "fecha_contratacion": "2022-01-18",
+      "habilidades": ["redes sociales", "SEO", "análisis de datos"],
+      "activo": true
+    },
+    {
+      "id": 6,
+      "nombre": "Pedro Sánchez",
+      "edad": 38,
+      "departamento": "IT",
+      "salario": 68000,
+      "fecha_contratacion": "2017-09-05",
+      "habilidades": ["Java", "Spring", "Kubernetes", "Azure"],
+      "activo": true
+    }
+  ],
+  "departamentos": [
+    {
+      "id": "Ventas",
+      "presupuesto_anual": 500000,
+      "ubicacion": "Piso 3",
+      "jefe_departamento": "Ana García"
+    },
+    {
+      "id": "IT",
+      "presupuesto_anual": 800000,
+      "ubicacion": "Piso 5",
+      "jefe_departamento": "Carlos López"
+    },
+    {
+      "id": "RRHH",
+      "presupuesto_anual": 300000,
+      "ubicacion": "Piso 2",
+      "jefe_departamento": "María Rodríguez"
+    },
+    {
+      "id": "Marketing",
+      "presupuesto_anual": 400000,
+      "ubicacion": "Piso 4",
+      "jefe_departamento": "Laura Fernández"
+    }
+  ]
+}
