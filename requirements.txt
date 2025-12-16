@@ -1,0 +1,10 @@
+# Librerías esenciales para todos los cursos
+pandas
+numpy
+matplotlib
+seaborn
+flask
+selenium
+pytest
+python-dotenv
+sqlalchemy
