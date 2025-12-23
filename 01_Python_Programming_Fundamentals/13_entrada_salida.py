@@ -1,6 +1,6 @@
 """
 Pruebas de Unidad en Python
-Unit testing with unittest and pytest-style testing
+Unit testing with unittest and pytest-style testing.
 """
 
 import unittest
